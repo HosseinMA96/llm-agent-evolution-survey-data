@@ -1,0 +1,8 @@
+{"window": ["20220101","20261031"],
+ "queries": {
+  "Q1": "abs:\"LLM agent\" OR abs:\"LLM agents\"",
+  "Q2": "abs:\"LLM-based agent\" OR abs:\"LLM-based agents\"",
+  "Q3": "abs:\"language agent\" OR abs:\"language agents\"",
+  "Q4": "abs:\"agentic AI\" OR abs:\"agentic systems\"",
+  "Q5": "abs:\"autonomous agent\" AND abs:\"large language model\""},
+ "title_regex": "\\b(agents?|agentic)\\b"}

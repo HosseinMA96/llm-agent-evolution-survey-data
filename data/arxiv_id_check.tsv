@@ -1,0 +1,302 @@
+agashe2024agents	2410.08164	OK	Agent S: An Open Agentic Framework that Uses Computers Like a Human	Agashe, Saaket
+ahn2022saycan	2204.01691	OK	Do As I Can, Not As I Say: Grounding Language in Robotic Affordances	Ahn, Michael
+ali2025agentic	2510.25445	OK	Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future Directions	Ali, Mohamad Abou
+andriushchenko2025agentharm	2410.09024	OK	AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents	Andriushchenko, Maksym
+badertdinov2025swerebench	2505.20411	OK	SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents	Badertdinov, Ibragim
+bai2022constitutional	2212.08073	OK	Constitutional AI: Harmlessness from AI Feedback	Bai, Yuntao
+bai2024digirl	2406.11896	OK	DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning	Bai, Hao
+belcak2025slm	2506.02153	OK	Small Language Models are the Future of Agentic AI	Belcak, Peter
+black20240	2410.24164	OK	$\pi_0$: A Vision-Language-Action Flow Model for General Robot Control	Black, Kevin
+boiko2023coscientist	2304.05332	OK	Emergent autonomous scientific research capabilities of large language models	Boiko, Daniil A.
+bonatti2024windows	2409.08264	OK	Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale	Bonatti, Rogerio
+bouzenia2024repairagent	2403.17134	OK	RepairAgent: An Autonomous, LLM-Based Agent for Program Repair	Bouzenia, Islem
+bran2024chemcrow	2304.05376	OK	ChemCrow: Augmenting large-language models with chemistry tools	Bran, Andres M
+brohan2023rt2	2307.15818	OK	RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control	Brohan, Anthony
+brown2020gpt3	2005.14165	OK	Language Models are Few-Shot Learners	Brown, Tom B.
+cai2023large	2305.17126	OK	Large Language Models as Tool Makers	Cai, Tianle
+cemri2025fail	2503.13657	OK	Why Do Multi-Agent LLM Systems Fail?	Cemri, Mert
+chae2025webworldmodel	2410.13232	OK	Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation	Chae, Hyungjoo
+chan2023chateval	2308.07201	OK	ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate	Chan, Chi-Min
+chan2023harms	2302.10329	OK	Harms from Increasingly Agentic Algorithmic Systems	Chan, Alan
+chan2024mlebench	2410.07095	OK	MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering	Chan, Jun Shern
+chan2024visibility	2401.13138	OK	Visibility into AI Agents	Chan, Alan
+chen2021evaluating	2107.03374	OK	Evaluating Large Language Models Trained on Code	Chen, Mark
+chen2023fireact	2310.05915	OK	FireAct: Toward Language Agent Fine-tuning	Chen, Baian
+chen2023reconcile	2309.13007	OK	ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs	Chen, Justin Chih-Yao
+chen2024agentpoison	2407.12784	OK	AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases	Chen, Zhaorun
+chen2024agentverse	2308.10848	OK	AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors	Chen, Weize
+chen2024autoagents	2309.17288	OK	AutoAgents: A Framework for Automatic Agent Generation	Chen, Guangyao
+chen2024optima	2410.08115	OK	Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System	Chen, Weize
+chen2025research	2503.19470	OK	ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning	Chen, Mingyang
+chen2025scienceagentbench	2410.05080	OK	ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery	Chen, Ziru
+cheng2024seeclick	2401.10935	OK	SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents	Cheng, Kanzhi
+chennabasappa2025llamafirewall	2505.03574	OK	LlamaFirewall: An open source guardrail system for building secure AI agents	Chennabasappa, Sahana
+chhikara2025mem0	2504.19413	OK	Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory	Chhikara, Prateek
+cobbe2021training	2110.14168	OK	Training Verifiers to Solve Math Word Problems	Cobbe, Karl
+debenedetti2024agentdojo	2406.13352	OK	AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents	Debenedetti, Edoardo
+deepseek2025r1	2501.12948	OK	DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning	DeepSeek-AI
+deng2023mind2web	2306.06070	OK	Mind2Web: Towards a Generalist Agent for the Web	Deng, Xiang
+dong2023selfcollaborat	2304.07590	OK	Self-collaboration Code Generation via ChatGPT	Dong, Yihong
+dong2025arpo	2507.19849	OK	Agentic Reinforced Policy Optimization	Dong, Guanting
+driess2023palme	2303.03378	OK	PaLM-E: An Embodied Multimodal Language Model	Driess, Danny
+drouin2024workarena	2403.07718	OK	WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?	Drouin, Alexandre
+du2024debate	2305.14325	OK	Improving Factuality and Reasoning in Language Models through Multiagent Debate	Du, Yilun
+du2025deepresearchbench	2506.11763	OK	DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents	Du, Mingxuan
+durante2024agentai	2401.03568	OK	Agent AI: Surveying the Horizons of Multimodal Interaction	Durante, Zane
+ehtesham2025protocols	2505.02279	OK	A survey of agent interoperability protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP)	Ehtesham, Abul
+erdogan2025planandact	2503.09572	OK	Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks	Erdogan, Lutfi Eren
+fan2026cognitive	2607.23942	OK	From Cognitive Architectures to Language Agents: A Mechanism-Level Review of Lineage, Convergence, and Migration Gaps	Fan, Haodi
+fang2024hackwebsites	2402.06664	OK	LLM Agents can Autonomously Hack Websites	Fang, Richard
+fang2024oneday	2404.08144	OK	LLM Agents can Autonomously Exploit One-day Vulnerabilities	Fang, Richard
+fang2025selfevolving	2508.07407	OK	A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems	Fang, Jinyuan
+feng2025gigpo	2505.10978	OK	Group-in-Group Policy Optimization for LLM Agent Training	Feng, Lang
+feng2025levels	2506.12469	OK	Levels of Autonomy for AI Agents	Feng, K. J. Kevin
+feng2025retool	2504.11536	OK	ReTool: Reinforcement Learning for Strategic Tool Use in LLMs	Feng, Jiazhan
+fernando2023promptbreeder	2309.16797	OK	Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution	Fernando, Chrisantha
+fourney2024magentic	2411.04468	OK	Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks	Fourney, Adam
+gan2024navigating	2411.09523	OK	Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents	Gan, Yuyou
+gao2023s3	2307.14984	OK	S$^3$: Social-network Simulation System with Large Language Model-Empowered Agents	Gao, Chen
+gao2025asearcher	2508.07976	OK	Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL	Gao, Jiaxuan
+gao2025flowreasoner	2504.15257	OK	FlowReasoner: Reinforcing Query-Level Meta-Agents	Gao, Hongcheng
+gao2025selfevolving	2507.21046	OK	A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence	Gao, Huan-ang
+glm2025glm45	2508.06471	OK	GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models	 5 Team
+golubev2025training	2508.03501	OK	Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning	Golubev, Alexander
+gottweis2025accelerating	2502.18864	OK	Accelerating scientific discovery with Co-Scientist	Gottweis, Juraj
+gou2025mind2web	2506.21506	OK	Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge	Gou, Boyu
+gu2024webdreamer	2411.06559	OK	Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents	Gu, Yu
+guo2024dsagent	2402.17453	OK	DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning	Guo, Siyuan
+guo2024multiagent	2402.01680	OK	Large Language Model based Multi-Agents: A Survey of Progress and Challenges	Guo, Taicheng
+guo2026question	2606.20683	OK	From Question Answering to Task Completion: A Survey on Agent System and Harness Design	Guo, Jianyuan
+gur2024webagent	2307.12856	OK	A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis	Gur, Izzeddin
+hammond2025marisks	2502.14143	OK	Multi-Agent Risks from Advanced AI	Hammond, Lewis
+han2024masproblems	2402.03578	OK	LLM Multi-Agent Systems: Challenges and Open Problems	Han, Shanshan
+he2024emergedsecurity	2407.19354	OK	The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies	He, Feng
+he2024llmmasse	2404.04834	OK	LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision and the Road Ahead	He, Junda
+he2024webvoyager	2401.13919	OK	WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models	He, Hongliang
+hendrycks2020measuring	2009.03300	OK	Measuring Massive Multitask Language Understanding	Hendrycks, Dan
+hendrycks2021measuring	2103.03874	OK	Measuring Mathematical Problem Solving With the MATH Dataset	Hendrycks, Dan
+hong2024cogagent	2312.08914	OK	CogAgent: A Visual Language Model for GUI Agents	Hong, Wenyi
+hong2024datainterpreter	2402.18679	OK	Data Interpreter: An LLM Agent For Data Science	Hong, Sirui
+hong2024metagpt	2308.00352	OK	MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework	Hong, Sirui
+hu2025adas	2408.08435	OK	Automated Design of Agentic Systems	Hu, Shengran
+hu2025osagents	2508.04482	OK	OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use	Hu, Xueyu
+hu2025owl	2505.23885	OK	OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation	Hu, Mengkang
+huang2022innermonologue	2207.05608	OK	Inner Monologue: Embodied Reasoning through Planning with Language Models	Huang, Wenlong
+huang2022zeroshotplanners	2201.07207	OK	Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents	Huang, Wenlong
+huang2024planningsurvey	2402.02716	OK	Understanding the planning of LLM agents: A survey	Huang, Xu
+huang2025deepresearch	2506.18096	OK	Deep Research Agents: A Systematic Examination And Roadmap	Huang, Yuxuan
+jia2024taskshield	2412.16682	OK	The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents	Jia, Feiran
+jimenez2024swebench	2310.06770	OK	SWE-bench: Can Language Models Resolve Real-World GitHub Issues?	Jimenez, Carlos E.
+jin2025searchr1	2503.09516	OK	Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning	Jin, Bowen
+kapoor2024matter	2407.01502	OK	AI Agents That Matter	Kapoor, Sayash
+karpas2022mrkl	2205.00445	OK	MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning	Karpas, Ehud
+ke2025maszero	2505.14996	OK	MAS-ZERO: Designing Multi-Agent Systems with Zero Supervision	Ke, Zixuan
+khattab2023dspy	2310.03714	OK	DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines	Khattab, Omar
+kim2024openvla	2406.09246	OK	OpenVLA: An Open-Source Vision-Language-Action Model	Kim, Moo Jin
+kim2025scalingagents	2512.08296	OK	Towards a Science of Scaling Agent Systems	Kim, Yubin
+kimi2025k2	2507.20534	OK	Kimi K2: Open Agentic Intelligence	Kimi Team
+koh2024tree	2407.01476	OK	Tree Search for Language Model Agents	Koh, Jing Yu
+kojima2022zeroshot	2205.11916	OK	Large Language Models are Zero-Shot Reasoners	Kojima, Takeshi
+kon2025curie	2502.16069	OK	Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents	Kon, Patrick Tser Jern
+kumar2024training	2409.12917	OK	Training Language Models to Self-Correct via Reinforcement Learning	Kumar, Aviral
+kwa2025metr	2503.14499	OK	Measuring AI Ability to Complete Long Software Tasks	Kwa, Thomas
+lai2025computerrl	2508.14040	OK	ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents	Lai, Hanyu
+lala2023paperqa	2312.07559	OK	PaperQA: Retrieval-Augmented Generative Agent for Scientific Research	Lála, Jakub
+lee2024promptinfection	2410.07283	OK	Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems	Lee, Donghyun
+levy2024stwebagentbenc	2410.06703	OK	ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents	Levy, Ido
+li2023apibank	2304.08244	OK	API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs	Li, Minghao
+li2023camel	2303.17760	OK	CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society	Li, Guohao
+li2023tomcollab	2310.10701	OK	Theory of Mind for Multi-Agent Collaboration via Large Language Models	Li, Huao
+li2024agenthospital	2405.02957	OK	Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents	Li, Junkai
+li2024personalagents	2401.05459	OK	Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security	Li, Yuanchun
+li2024sparsedebate	2406.11776	OK	Improving Multi-Agent Debate with Sparse Communication Topology	Li, Yunxuan
+li2025searcho1	2501.05366	OK	Search-o1: Agentic Search-Enhanced Large Reasoning Models	Li, Xiaoxi
+li2025websailor	2507.02592	OK	WebSailor: Navigating Super-human Reasoning for Web Agent	Li, Kuan
+li2025webthinker	2504.21776	OK	WebThinker: Empowering Large Reasoning Models with Deep Research Capability	Li, Xiaoxi
+liang2023codeaspolicies	2209.07753	OK	Code as Policies: Language Model Programs for Embodied Control	Liang, Jacky
+liang2023encouraging	2305.19118	OK	Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate	Liang, Tian
+liao2025marft	2504.16129	OK	MARFT: Multi-Agent Reinforcement Fine-Tuning	Liao, Junwei
+lin2023swiftsage	2305.17390	OK	SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks	Lin, Bill Yuchen
+liu2023dynamic	2310.02170	OK	A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration	Liu, Zijun
+liu2023llmp	2304.11477	OK	LLM+P: Empowering Large Language Models with Optimal Planning Proficiency	Liu, Bo
+liu2024agentbench	2308.03688	OK	AgentBench: Evaluating LLMs as Agents	Liu, Xiao
+liu2024sesurvey	2409.02977	OK	Large Language Model-Based Agents for Software Engineering: A Survey	Liu, Junwei
+liu2025foundationagents	2504.01990	OK	Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems	Liu, Bang
+liu2025infiguir1	2504.14239	OK	InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners	Liu, Yuhang
+lu2024aiscientist	2408.06292	OK	The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery	Lu, Chris
+lu2024omniparser	2408.00203	OK	OmniParser for Pure Vision Based GUI Agent	Lu, Yadong
+lu2025uir1	2503.21620	OK	UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning	Lu, Zhengxi
+luo2025agentsurvey	2503.21460	OK	Large Language Model Agent: A Survey on Methodology, Applications and Challenges	Luo, Junyu
+luo2025guir1	2504.10458	OK	GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents	Luo, Run
+lynch2025misalignment	2510.05179	OK	Agentic Misalignment: How LLMs Could Be Insider Threats	Lynch, Aengus
+ma2024agentboard	2401.13178	OK	AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents	Ma, Chang
+madaan2023selfrefine	2303.17651	OK	Self-Refine: Iterative Refinement with Self-Feedback	Madaan, Aman
+masterman2024landscape	2404.11584	OK	The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey	Masterman, Tula
+mei2024aios	2403.16971	OK	AIOS: LLM Agent Operating System	Mei, Kai
+merrill2026terminalbench	2601.11868	OK	Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces	Merrill, Mike A.
+mialon2024gaia	2311.12983	OK	GAIA: a benchmark for General AI Assistants	Mialon, Grégoire
+mnih2013atari	1312.5602	OK	Playing Atari with Deep Reinforcement Learning	Mnih, Volodymyr
+mohammadi2025evalsurvey	2507.21504	OK	Evaluation and Benchmarking of LLM Agents: A Survey	Mohammadi, Mahmoud
+morris2024levels	2311.02462	OK	Levels of AGI for Operationalizing Progress on the Path to AGI	Morris, Meredith Ringel
+motwani2024malt	2412.01928	OK	MALT: Improving Reasoning with Multi-Agent LLM Training	Motwani, Sumeet Ramesh
+muennighoff2025s1	2501.19393	OK	s1: Simple test-time scaling	Muennighoff, Niklas
+nakano2021webgpt	2112.09332	OK	WebGPT: Browser-assisted question-answering with human feedback	Nakano, Reiichiro
+novikov2025alphaevolve	2506.13131	OK	AlphaEvolve: A coding agent for scientific and algorithmic discovery	Novikov, Alexander
+openai2024o1card	2412.16720	OK	OpenAI o1 System Card	OpenAI
+ouyang2022instructgpt	2203.02155	OK	Training language models to follow instructions with human feedback	Ouyang, Long
+ouyang2025reasoningbank	2509.25140	OK	ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory	Ouyang, Siru
+packer2023memgpt	2310.08560	OK	MemGPT: Towards LLMs as Operating Systems	Packer, Charles
+pan2024webcanvas	2406.12373	OK	WebCanvas: Benchmarking Web Agents in Online Environments	Pan, Yichen
+park2023generative	2304.03442	OK	Generative Agents: Interactive Simulacra of Human Behavior	Park, Joon Sung
+park2024simulating1000	2411.10109	OK	LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals	Park, Joon Sung
+patil2023gorilla	2305.15334	OK	Gorilla: Large Language Model Connected with Massive APIs	Patil, Shishir G.
+plaat2025agenticllm	2503.23037	OK	Agentic Large Language Models, a survey	Plaat, Aske
+putta2024agentq	2408.07199	OK	Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents	Putta, Pranav
+qi2025webrl	2411.02337	OK	WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning	Qi, Zehan
+qian2024chatdev	2307.07924	OK	ChatDev: Communicative Agents for Software Development	Qian, Chen
+qian2025macnet	2406.07155	OK	Scaling Large Language Model-based Multi-Agent Collaboration	Qian, Chen
+qian2025toolrl	2504.13958	OK	ToolRL: Reward is All Tool Learning Needs	Qian, Cheng
+qin2024toolllm	2307.16789	OK	ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs	Qin, Yujia
+qin2025uitars	2501.12326	OK	UI-TARS: Pioneering Automated GUI Interaction with Native Agents	Qin, Yujia
+qiu2025alita	2505.20286	OK	Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution	Qiu, Jiahao
+qu2024crisprgpt	2404.18021	OK	CRISPR-GPT for Agentic Automation of Gene-editing Experiments	Qu, Yuanhao
+rawles2024androidworld	2405.14573	OK	AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents	Rawles, Christopher
+robeyns2025selfimproving	2504.15228	OK	A Self-Improving Coding Agent	Robeyns, Maxime
+roohani2024biodiscoveryag	2405.17631	OK	BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments	Roohani, Yusuf
+ruan2024toolemu	2309.15817	OK	Identifying the Risks of LM Agents with an LM-Emulated Sandbox	Ruan, Yangjun
+sang2025pipelines	2510.16720	OK	Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI	Sang, Jitao
+sapkota2025agentsvsagentic	2505.10468	OK	AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges	Sapkota, Ranjan
+schick2023toolformer	2302.04761	OK	Toolformer: Language Models Can Teach Themselves to Use Tools	Schick, Timo
+schmidgall2025agent	2501.04227	OK	Agent Laboratory: Using LLM Agents as Research Assistants	Schmidgall, Samuel
+schulman2017proximal	1707.06347	OK	Proximal Policy Optimization Algorithms	Schulman, John
+selfimprove2026survey	2607.13104	OK	Self-Improvements in Modern Agentic Systems: A Survey	Ren, Zhe
+shang2025agentsquare	2410.06153	OK	AgentSquare: Automatic LLM Agent Search in Modular Design Space	Shang, Yu
+shao2024deepseekmath	2402.03300	OK	DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models	Shao, Zhihong
+sharma2025small	2510.03847	OK	Small Language Models for Agentic Systems: A Survey of Architectures, Capabilities, and Deployment Trade offs	Sharma, Raghav
+shen2023hugginggpt	2303.17580	OK	HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face	Shen, Yongliang
+shi2025deepresearch	2508.12752	OK	Deep Research: A Survey of Autonomous Research Agents	Zhang, Wenlin
+shi2025mobileguirl	2507.05720	OK	MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment	Shi, Yucheng
+shinn2023reflexion	2303.11366	OK	Reflexion: Language Agents with Verbal Reinforcement Learning	Shinn, Noah
+shridhar2021alfworld	2010.03768	OK	ALFWorld: Aligning Text and Embodied Environments for Interactive Learning	Shridhar, Mohit
+singh2023progprompt	2209.11302	OK	ProgPrompt: Generating Situated Robot Task Plans using Large Language Models	Singh, Ishika
+singh2025agentic	2505.01441	OK	Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning	Singh, Joykirat
+singh2025agentic2	2501.09136	OK	Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG	Singh, Aditi
+song2024eto	2403.02502	OK	Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents	Song, Yifan
+song2025r1searcher	2503.05592	OK	R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning	Song, Huatong
+subramaniam2025multiagent	2501.05707	OK	Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains	Subramaniam, Vighnesh
+sumers2024coala	2309.02427	OK	Cognitive Architectures for Language Agents	Sumers, Theodore R.
+sun2025contextfolding	2510.11967	OK	Scaling Long-Horizon LLM Agent via Context-Folding	Sun, Weiwei
+sun2025zerosearch	2505.04588	OK	ZeroSearch: Incentivize the Search Capability of LLMs without Searching	Sun, Hao
+tang2023medagents	2311.10537	OK	MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning	Tang, Xiangru
+tao2024survey	2404.14387	OK	A Survey on Self-Evolution of Large Language Models	Tao, Zhengwei
+team2025kimi	2501.12599	OK	Kimi k1.5: Scaling Reinforcement Learning with LLMs	Kimi Team
+terminal2026survey	2608.20485	OK	Terminal Agents: A Survey of AI Agents in Command-Line Environments	Bin, Yi
+tran2025mascollab	2501.06322	OK	Multi-Agent Collaboration Mechanisms: A Survey of LLMs	Tran, Khanh-Tung
+wan2025rema	2503.09501	OK	ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning	Wan, Ziyu
+wang2022selfinstruct	2212.10560	OK	Self-Instruct: Aligning Language Models with Self-Generated Instructions	Wang, Yizhong
+wang2023deps	2302.01560	OK	Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents	Wang, Zihao
+wang2023mathshepherd	2312.08935	OK	Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations	Wang, Peiyi
+wang2023planandsolve	2305.04091	OK	Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models	Wang, Lei
+wang2023selfconsistency	2203.11171	OK	Self-Consistency Improves Chain of Thought Reasoning in Language Models	Wang, Xuezhi
+wang2023voyager	2305.16291	OK	Voyager: An Open-Ended Embodied Agent with Large Language Models	Wang, Guanzhi
+wang2024agent	2409.07429	OK	Agent Workflow Memory	Wang, Zora Zhiruo
+wang2024codeact	2402.01030	OK	Executable Code Actions Elicit Better LLM Agents	Wang, Xingyao
+wang2024moa	2406.04692	OK	Mixture-of-Agents Enhances Large Language Model Capabilities	Wang, Junlin
+wang2024mobileagent	2401.16158	OK	Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception	Wang, Junyang
+wang2024survey	2308.11432	OK	A Survey on Large Language Model based Autonomous Agents	Wang, Lei
+wang2025acting	2504.14870	OK	Acting Less is Reasoning More! Teaching Model to Act Efficiently	Wang, Hongru
+wang2025agentspec	2503.18666	OK	AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents	Wang, Haoyu
+wang2025gsafeguard	2502.11127	OK	G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems	Wang, Shilong
+wang2025mobileagente	2501.11733	OK	Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks	Wang, Zhenhailong
+wang2025openhands	2407.16741	OK	OpenHands: An Open Platform for AI Software Developers as Generalist Agents	Wang, Xingyao
+wang2025ragen	2504.20073	OK	RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning	Wang, Zihan
+wang2025sparl	2505.20732	OK	SPA-RL: Reinforcing LLM Agents via Stepwise Progress Attribution	Wang, Hanlin
+wei2022cot	2201.11903	OK	Chain-of-Thought Prompting Elicits Reasoning in Large Language Models	Wei, Jason
+wei2025browsecomp	2504.12516	OK	BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents	Wei, Jason
+wei2025swerl	2502.18449	OK	SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution	Wei, Yuxiang
+wei2025webagentr1	2505.16421	OK	WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning	Wei, Zhepei
+wei2026survey	2601.12538	OK	A Survey of Agentic Reasoning for Large Language Models: Towards Recursively Self-Improving and Collective Agents	Wei, Tianxin
+wu2023autogen	2308.08155	OK	AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation	Wu, Qingyun
+wu2023smartplay	2310.01557	OK	SmartPlay: A Benchmark for LLMs as Intelligent Agents	Wu, Yue
+wu2024osatlas	2410.23218	OK	OS-ATLAS: A Foundation Action Model for Generalist GUI Agents	Wu, Zhiyong
+wu2024oscopilot	2402.07456	OK	OS-Copilot: Towards Generalist Computer Agents with Self-Improvement	Wu, Zhiyong
+wu2025webdancer	2505.22648	OK	WebDancer: Towards Autonomous Information Seeking Agency	Wu, Jialong
+wu2025webwalker	2501.07572	OK	WebWalker: Benchmarking LLMs in Web Traversal	Wu, Jialong
+xi2025agentgym	2406.04151	OK	AgentGym: Evolving Large Language Model-based Agents across Diverse Environments	Xi, Zhiheng
+xi2025rise	2309.07864	OK	The Rise and Potential of Large Language Model Based Agents: A Survey	Xi, Zhiheng
+xia2024agentless	2407.01489	OK	Agentless: Demystifying LLM-based Software Engineering Agents	Xia, Chunqiu Steven
+xia2025livesweagent	2511.13646	OK	Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?	Xia, Chunqiu Steven
+xiang2024guardagent	2406.09187	OK	GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning	Xiang, Zhen
+xiao2024tradingagents	2412.20138	OK	TradingAgents: Multi-Agents LLM Financial Trading Framework	Xiao, Yijia
+xie2023openagents	2310.10634	OK	OpenAgents: An Open Platform for Language Agents in the Wild	Xie, Tianbao
+xie2024osworld	2404.07972	OK	OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments	Xie, Tianbao
+xie2024travelplanner	2402.01622	OK	TravelPlanner: A Benchmark for Real-World Planning with Language Agents	Xie, Jian
+xu2023rewoo	2305.18323	OK	ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models	Xu, Binfeng
+xu2024theagentcompany	2412.14161	OK	TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks	Xu, Frank F.
+xu2025amem	2502.12110	OK	A-MEM: Agentic Memory for LLM Agents	Xu, Wujiang
+yamada2025aiscientistv2	2504.08066	OK	The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search	Yamada, Yutaro
+yan2025memoryr1	2508.19828	OK	Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning	Yan, Sikuan
+yang2023autogpt	2306.02224	OK	Auto-GPT for Online Decision Making: Benchmarks and Additional Opinions	Yang, Hui
+yang2024agentoccam	2410.13825	OK	AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents	Yang, Ke
+yang2024oasis	2411.11581	OK	OASIS: Open Agent Social Interaction Simulations with One Million Agents	Yang, Ziyi
+yang2024sweagent	2405.15793	OK	SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering	Yang, John
+yang2024watchout	2402.11208	OK	Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents	Yang, Wenkai
+yang2025zerogui	2505.23762	OK	ZeroGUI: Automating Online GUI Learning at Zero Human Cost	Yang, Chenyu
+yao2022webshop	2207.01206	OK	WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents	Yao, Shunyu
+yao2023react	2210.03629	OK	ReAct: Synergizing Reasoning and Acting in Language Models	Yao, Shunyu
+yao2023tot	2305.10601	OK	Tree of Thoughts: Deliberate Problem Solving with Large Language Models	Yao, Shunyu
+yao2024retroformer	2308.02151	OK	Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization	Yao, Weiran
+yao2024taubench	2406.12045	OK	$\tau$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains	Yao, Shunyu
+ye2025mobileagentv3	2508.15144	OK	Mobile-Agent-v3: Fundamental Agents for GUI Automation	Ye, Jiabo
+yehudai2025evalsurvey	2503.16416	OK	Survey on Evaluation of LLM-based Agents	Yehudai, Asaf
+yoran2024assistantbench	2407.15711	OK	AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?	Yoran, Ori
+yu2024fincon	2407.06567	OK	FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making	Yu, Yangyang
+yu2025dapo	2503.14476	OK	DAPO: An Open-Source LLM Reinforcement Learning System at Scale	Yu, Qiying
+yu2025trustworthy	2503.09648	OK	A Survey on Trustworthy LLM Agents: Threats and Countermeasures	Yu, Miao
+yuan2024rjudge	2401.10019	OK	R-Judge: Benchmarking Safety Risk Awareness for LLM Agents	Yuan, Tongxin
+yuan2024selfrewarding	2401.10020	OK	Self-Rewarding Language Models	Yuan, Weizhe
+yuksekgonul2024textgrad	2406.07496	OK	TextGrad: Automatic "Differentiation" via Text	Yuksekgonul, Mert
+zelikman2022star	2203.14465	OK	STaR: Bootstrapping Reasoning With Reasoning	Zelikman, Eric
+zeng2024agenttuning	2310.12823	OK	AgentTuning: Enabling Generalized Agent Abilities for LLMs	Zeng, Aohan
+zhan2024injecagent	2403.02691	OK	InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents	Zhan, Qiusi
+zhan2025adaptiveattacks	2503.00061	OK	Adaptive Attacks Break Defenses Against Indirect Prompt Injection Attacks on LLM Agents	Zhan, Qiusi
+zhang2023appagent	2312.13771	OK	AppAgent: Multimodal Agents as Smartphone Users	Zhang, Chi
+zhang2024aflow	2410.10762	OK	AFlow: Automating Agentic Workflow Generation	Zhang, Jiayi
+zhang2024agentprune	2410.02506	OK	Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems	Zhang, Guibin
+zhang2024agentsafetybench	2412.14470	OK	Agent-SafetyBench: Evaluating the Safety of LLM Agents	Zhang, Zhexin
+zhang2024codeagent	2401.07339	OK	CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges	Zhang, Kechi
+zhang2024coela	2307.02485	OK	Building Cooperative Embodied Agents Modularly with Large Language Models	Zhang, Hongxin
+zhang2024memsurvey	2404.13501	OK	A Survey on the Memory Mechanism of Large Language Model based Agents	Zhang, Zeyu
+zhang2024proagent	2308.11339	OK	ProAgent: Building Proactive Cooperative Agents with Large Language Models	Zhang, Ceyao
+zhang2024socialpsych	2310.02124	OK	Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View	Zhang, Jintian
+zhang2024ufo	2402.07939	OK	UFO: A UI-Focused Agent for Windows OS Interaction	Zhang, Chaoyun
+zhang2025agentic	2510.04618	OK	Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models	Zhang, Qizheng
+zhang2025agenticrl	2509.02547	OK	The Landscape of Agentic Reinforcement Learning for LLMs: A Survey	Zhang, Guibin
+zhang2025agentorchestra	2506.12508	OK	AgentOrchestra: Orchestrating Multi-Agent Intelligence with the Tool-Environment-Agent(TEA) Protocol	Zhang, Wentao
+zhang2025asb	2410.02644	OK	Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents	Zhang, Hanrong
+zhang2025darwin	2505.22954	OK	Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents	Zhang, Jenny
+zhang2025gdesigner	2410.11782	OK	G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks	Zhang, Guibin
+zhang2025generalizabili	2509.16330	OK	Generalizability of Large Language Model-Based Agents: A Comprehensive Survey	Zhang, Minxing
+zhang2025maas	2502.04180	OK	Multi-agent Architecture Search via Agentic Supernet	Zhang, Guibin
+zhang2025nemotronresear	2505.00024	OK	Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning	Zhang, Shaokun
+zhang2025whichagent	2505.00212	OK	Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems	Zhang, Shaokun
+zhang2026componentrepla	2609.39989	TITLE_MISMATCH	Component Replacement in LLM Agents: A Critical Scoping Review of Task Benefit and Attribution	Zhang, Shuyang
+zhang2026rethinking	2604.27859	OK	Rethinking Agentic Reinforcement Learning In Large Language Models	Cui, Fangming
+zhao2025absolute	2505.03335	OK	Absolute Zero: Reinforced Self-play Reasoning with Zero Data	Zhao, Andrew
+zhao2025sirius	2502.04780	OK	SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning	Zhao, Wanjia
+zheng2024seeact	2401.01614	OK	GPT-4V(ision) is a Generalist Web Agent, if Grounded	Zheng, Boyuan
+zheng2025deepeyes	2505.14362	OK	DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning	Zheng, Ziwei
+zheng2025deepresearcher	2504.03160	OK	DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments	Zheng, Yuxiang
+zhou2023agentsfw	2309.07870	OK	Agents: An Open-source Framework for Autonomous Language Agents	Zhou, Wangchunshu
+zhou2024archer	2402.19446	OK	ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL	Zhou, Yifei
+zhou2024lats	2310.04406	OK	Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models	Zhou, Andy
+zhou2024sotopia	2310.11667	OK	SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents	Zhou, Xuhui
+zhou2024symbolic	2406.18532	OK	Symbolic Learning Enables Self-Evolving Agents	Zhou, Wangchunshu
+zhou2024webarena	2307.13854	OK	WebArena: A Realistic Web Environment for Building Autonomous Agents	Zhou, Shuyan
+zhou2025mass	2502.02533	OK	Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies	Zhou, Han
+zhou2025mem1	2506.15841	OK	MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents	Zhou, Zijian
+zhou2025selfchallengin	2506.01716	OK	Self-Challenging Language Model Agents	Zhou, Yifei
+zhou2025sweetrl	2503.15478	OK	SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks	Zhou, Yifei
+zhu2025multiagentbench	2503.01935	OK	MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents	Zhu, Kunlun
+zhuge2023mindstorms	2305.17066	OK	Mindstorms in Natural Language-Based Societies of Mind	Zhuge, Mingchen
+zhuge2024agentjudge	2410.10934	OK	Agent-as-a-Judge: Evaluate Agents with Agents	Zhuge, Mingchen
