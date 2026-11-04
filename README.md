@@ -1,5 +1,7 @@
 # Data and scripts for "From Prompted Reasoners to Autonomous Agents" (survey)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23936708.svg)](https://doi.org/10.5281/zenodo.23936708)
+
 Supporting data for the survey *From Prompted Reasoners to Autonomous Agents: A Survey of the
 Evolution of LLM-Based Agents, 2022–2026* (H. Mohasel Arjomandi, preprint, November 2026).
 Harvest date: November 1, 2026. Submission window: January 1, 2022 – October 31, 2026.
@@ -57,6 +59,11 @@ over time; use the archived `harvest.json` to reproduce the paper's numbers.
   papers describe themselves, not what they do; §IX-B discusses what this means for the scaffold rule.
 - arXiv over-represents academic work relative to industrial systems.
 - `coverage_gaps.tsv` reflects the reference lists available on November 1–2, 2026.
+
+## Citation
+
+Archived on Zenodo: [10.5281/zenodo.23936708](https://doi.org/10.5281/zenodo.23936708) (all versions; v1.0 is
+[10.5281/zenodo.23936709](https://doi.org/10.5281/zenodo.23936709)).
 
 ## Licence
 
