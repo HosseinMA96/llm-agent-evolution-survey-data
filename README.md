@@ -24,6 +24,7 @@ with its annotation sheets, and the bibliography checks.
 | `data/annotator1_labels.csv`, `annotator2_labels.csv` | Blind labeling sheets for two independent annotators | §IX-B |
 | `data/ai_precheck_labels.csv` | **Preliminary** labels produced with an AI assistant (see below) | §II-D, §IX-B (preliminary figures) |
 | `data/arxiv_id_check.tsv` | Title and first-author check of every arXiv reference | §II-B |
+| `data/checks_venue_evidence.tsv` | Venue audit of every arXiv-derived reference (November 3, 2026): peer-reviewed venue and year, the record it was verified against (ACL Anthology, NeurIPS proceedings, PMLR, OpenReview acceptance, DBLP, Crossref DOI), a second check against ML Anthology, and the earlier Semantic Scholar note | §II-B |
 | `data/coverage_gaps.tsv` | Works cited by the 18 compared surveys but not by this one, with how many surveys cite each | §II-C |
 | `scripts/harvest.py` | Reproducible arXiv harvest (`python3 scripts/harvest.py data/harvest_config.json <out_dir>`) | §II-A |
 | `scripts/bibliometrics.py` | Recomputes the corpus, Tables VII–VIII, all tests, and redraws the validation sample | §II, §IX |

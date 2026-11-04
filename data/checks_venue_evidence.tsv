@@ -1,0 +1,306 @@
+# Venue audit, 2026-11-03. One row per arXiv-derived reference. decision/venue/year: what references.bib states.
+# source: manual|official (ACL Anthology, papers.nips.cc, PMLR)|doi (Crossref record of the DOI)|openreview|dblp (DBLP record mirrored on OpenReview)|crossref (title search).
+# mlanthology: independent second check (mlanthology.org venue pages). old_note: Semantic Scholar-derived note before the audit.
+key	decision	venue	year	source	evidence	mlanthology	old_note
+agashe2024agents	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=lIVRgt4nLv	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+ahn2022saycan	peer-reviewed	Conference on Robot Learning	2022	official	https://proceedings.mlr.press/v205/ichter23a.html		Published in Proc. Conf. Robot Learning (CoRL)
+ali2025agentic	peer-reviewed	Artificial Intelligence Review	2025	doi	https://doi.org/10.1007/s10462-025-11422-4		Published in Artificial Intelligence Review
+andriushchenko2025agentharm	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=AC5n7xHuR1	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+badertdinov2025swerebench	peer-reviewed	NeurIPS D&B	2025	openreview	https://openreview.net/forum?id=nMpJoVmRy1	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+bai2022constitutional	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+bai2024digirl	peer-reviewed	Neural Information Processing Systems	2024	official	https://papers.nips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html	NEURIPS 2024	Published in Advances in Neural Information Processing Systems (NeurIPS)
+belcak2025slm	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+black20240	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+boiko2023coscientist	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+bonatti2024windows	peer-reviewed	International Conference on Machine Learning	2025	official	https://proceedings.mlr.press/v267/bonatti25a.html	ICML 2025	Published in Proc. Int. Conf. Machine Learning (ICML)
+bouzenia2024repairagent	peer-reviewed	Proc. IEEE/ACM Int. Conf. Software Engineering (ICSE)	2025	doi	https://doi.org/10.1109/ICSE55347.2025.00157		Published in International Conference on Software Engineering
+bran2024chemcrow	peer-reviewed	Nature Machine Intelligence	2024	doi	https://doi.org/10.1038/s42256-024-00832-8		Published in Nature Machine Intelligence
+brohan2023rt2	peer-reviewed	Conference on Robot Learning	2023	official	https://proceedings.mlr.press/v229/zitkovich23a.html		Published in Proc. Conf. Robot Learning (CoRL)
+brown2020gpt3	peer-reviewed	Neural Information Processing Systems	2020	official	https://papers.nips.cc/paper_files/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html	NEURIPS 2020	Published in Advances in Neural Information Processing Systems (NeurIPS)
+cai2023large	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=qV83K9d5WB	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+cemri2025fail	peer-reviewed	NeurIPS D&B	2025	openreview	https://openreview.net/forum?id=fAjbYBmonr	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+chae2025webworldmodel	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=moWiYJuSGF	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+chan2023chateval	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=FQepisCUWu	ICLR 2024	
+chan2023harms	peer-reviewed	FAccT	2023	doi	https://doi.org/10.1145/3593013.3594033		Published in Proc. ACM FAccT
+chan2024mlebench	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=6s5uXNWGIh	ICLR 2025	
+chan2024visibility	peer-reviewed	FAccT	2024	doi	https://doi.org/10.1145/3630106.3658948		Published in Proc. ACM FAccT
+chen2021evaluating	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+chen2023fireact	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+chen2023reconcile	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2024	official	https://aclanthology.org/2024.acl-long.381/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+chen2024agentpoison	peer-reviewed	Neural Information Processing Systems	2024	official	https://papers.nips.cc/paper_files/paper/2024/hash/eb113910e9c3f6242541c1652e30dfd6-Abstract-Conference.html	NEURIPS 2024	Published in Advances in Neural Information Processing Systems (NeurIPS)
+chen2024agentverse	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=EHg5GDnyq1	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+chen2024autoagents	peer-reviewed	International Joint Conference on Artificial Intelligence	2024	dblp	https://openreview.net/forum?id=mMa0ZjK1u5	IJCAI 2024	Published in Proc. IJCAI
+chen2024optima	peer-reviewed	Findings ACL	2025	official	https://aclanthology.org/2025.findings-acl.601/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+chen2025research	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=OuGAwwAT8G	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+chen2025scienceagentbench	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=6z4YKr0GK6	ICLR 2025	
+cheng2024seeclick	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2024	official	https://aclanthology.org/2024.acl-long.505/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+chennabasappa2025llamafirewall	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+chhikara2025mem0	peer-reviewed	Proc. European Conf. Artificial Intelligence (ECAI)	2025	openreview	https://openreview.net/forum?id=0wxfikDcOa		Published in European Conference on Artificial Intelligence
+cobbe2021training	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+debenedetti2024agentdojo	peer-reviewed	NeurIPS D&B	2024	official	https://papers.nips.cc/paper_files/paper/2024/hash/97091a5177d8dc64b1da8bf3e1f6fb54-Abstract-Datasets_and_Benchmarks_Track.html	NEURIPS 2024	Published in Advances in Neural Information Processing Systems (NeurIPS)
+deepseek2025r1	peer-reviewed	Nature	2025	doi	https://doi.org/10.1038/s41586-025-09422-z		Published in Nature
+deng2023mind2web	peer-reviewed	NeurIPS D&B	2023	official	https://papers.nips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html	NEURIPS 2023	Published in Advances in Neural Information Processing Systems (NeurIPS)
+dong2023selfcollaborat	peer-reviewed	ACM Transactions on Software Engineering and Methodology	2024	doi	https://doi.org/10.1145/3672459		Published in ACM Transactions on Software Engineering and Methodology
+dong2025arpo	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=TX4k7BF6aO	ICLR 2026	
+driess2023palme	peer-reviewed	International Conference on Machine Learning	2023	official	https://proceedings.mlr.press/v202/driess23a.html	ICML 2023	Published in Proc. Int. Conf. Machine Learning (ICML)
+drouin2024workarena	peer-reviewed	International Conference on Machine Learning	2024	official	https://proceedings.mlr.press/v235/drouin24a.html	ICML 2024	Published in Proc. Int. Conf. Machine Learning (ICML)
+du2024debate	peer-reviewed	International Conference on Machine Learning	2024	official	https://proceedings.mlr.press/v235/du24e.html	ICML 2024	Published in Proc. Int. Conf. Machine Learning (ICML)
+du2025deepresearchbench	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=hQ0K2Hhq7H	ICLR 2026	
+durante2024agentai	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+ehtesham2025protocols	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+erdogan2025planandact	peer-reviewed	International Conference on Machine Learning	2025	official	https://proceedings.mlr.press/v267/erdogan25a.html	ICML 2025	Published in Proc. Int. Conf. Machine Learning (ICML)
+fan2026cognitive	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+fang2024hackwebsites	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+fang2024oneday	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+fang2025selfevolving	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+feng2025gigpo	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=QXEhBMNrCW	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+feng2025levels	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+feng2025retool	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=ssQlpCLkKf	ICLR 2026	
+fernando2023promptbreeder	peer-reviewed	International Conference on Machine Learning	2024	official	https://proceedings.mlr.press/v235/fernando24a.html	ICML 2024	Published in Proc. Int. Conf. Machine Learning (ICML)
+fourney2024magentic	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+gan2024navigating	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+gao2023s3	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+gao2025asearcher	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+gao2025flowreasoner	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+gao2025selfevolving	peer-reviewed	Trans. Mach. Learn. Res.	2026	openreview	https://openreview.net/forum?id=I3FSYdjSWf	TMLR 2026	
+glm2025glm45	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+golubev2025training	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+gottweis2025accelerating	peer-reviewed	Nature	2026	doi	https://doi.org/10.1038/s41586-026-10644-y		Published in Nature
+gou2025mind2web	peer-reviewed	NeurIPS D&B	2025	openreview	https://openreview.net/forum?id=AUaW6DS9si	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+gu2024webdreamer	peer-reviewed	Trans. Mach. Learn. Res.	2025	openreview	https://openreview.net/forum?id=c6l7yA0HSq	TMLR 2025	Published in Transactions on Machine Learning Research
+guo2024dsagent	peer-reviewed	International Conference on Machine Learning	2024	official	https://proceedings.mlr.press/v235/guo24b.html	ICML 2024	Published in Proc. Int. Conf. Machine Learning (ICML)
+guo2024multiagent	peer-reviewed	International Joint Conference on Artificial Intelligence	2024	dblp	https://openreview.net/forum?id=ZDA3SvZEik	IJCAI 2024	Published in Proc. IJCAI
+guo2026question	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+gur2024webagent	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=9JQtrumvg8	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+hammond2025marisks	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+han2024masproblems	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+he2024emergedsecurity	peer-reviewed	ACM Computing Surveys	2025	doi	https://doi.org/10.1145/3773080		Published in ACM Computing Surveys
+he2024llmmasse	peer-reviewed	ACM Transactions on Software Engineering and Methodology	2025	doi	https://doi.org/10.1145/3712003		Published in ACM Transactions on Software Engineering and Methodology
+he2024webvoyager	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2024	official	https://aclanthology.org/2024.acl-long.371/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+hendrycks2020measuring	peer-reviewed	International Conference on Learning Representations	2021	manual	https://openreview.net/forum?id=d7KBjmI3GmQ	ICLR 2021	Published in Proc. Int. Conf. Learning Representations (ICLR)
+hendrycks2021measuring	peer-reviewed	NeurIPS D&B	2021	manual	https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/be83ab3ecd0db773eb2dc1b0a17836a1-Abstract-round2.html		Published in NeurIPS Datasets and Benchmarks
+hong2024cogagent	peer-reviewed	Computer Vision and Pattern Recognition	2024	doi	https://doi.org/10.1109/CVPR52733.2024.01354	CVPR 2024	Published in Proc. IEEE/CVF CVPR
+hong2024datainterpreter	peer-reviewed	Findings ACL	2025	official	https://aclanthology.org/2025.findings-acl.1016/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+hong2024metagpt	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=VtmBAGCN7o	ICLR 2024	
+hu2025adas	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=t9U3LW7JVX	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+hu2025osagents	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+hu2025owl	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=MBJ46gd1CT	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+huang2022innermonologue	peer-reviewed	Conference on Robot Learning	2022	official	https://proceedings.mlr.press/v205/huang23c.html		Published in Proc. Conf. Robot Learning (CoRL)
+huang2022zeroshotplanners	peer-reviewed	International Conference on Machine Learning	2022	official	https://proceedings.mlr.press/v162/huang22a.html	ICML 2022	Published in Proc. Int. Conf. Machine Learning (ICML)
+huang2024planningsurvey	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+huang2025deepresearch	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+jia2024taskshield	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2025	official	https://aclanthology.org/2025.acl-long.1435/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+jimenez2024swebench	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=VTF8yNQM66	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+jin2025searchr1	peer-reviewed	COLM	2025	openreview	https://openreview.net/forum?id=Rwhi91ideu		
+kapoor2024matter	peer-reviewed	Trans. Mach. Learn. Res.	2025	manual	https://mlanthology.org/tmlr/2025/kapoor2025tmlr-ai/ (OpenReview Zy4uFzMviZ: Accepted by TMLR)	TMLR 2025	Published in Transactions on Machine Learning Research
+karpas2022mrkl	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+ke2025maszero	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+khattab2023dspy	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+kim2024openvla	peer-reviewed	Conference on Robot Learning	2024	official	https://proceedings.mlr.press/v270/kim25c.html		Published in Proc. Conf. Robot Learning (CoRL)
+kim2025scalingagents	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+kimi2025k2	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+koh2024tree	peer-reviewed	Trans. Mach. Learn. Res.	2025	manual	https://mlanthology.org/tmlr/2025/koh2025tmlr-tree/ (OpenReview QF0N3x2XVm: Accepted by TMLR)	TMLR 2025	Published in Transactions on Machine Learning Research
+kojima2022zeroshot	peer-reviewed	Neural Information Processing Systems	2022	official	https://papers.nips.cc/paper_files/paper/2022/hash/8bb0d291acd4acf06ef112099c16f326-Abstract-Conference.html	NEURIPS 2022	Published in Advances in Neural Information Processing Systems (NeurIPS)
+kon2025curie	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+kumar2024training	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=CjwERcAU7w	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+kwa2025metr	peer-reviewed	Neural Information Processing Systems	2025	doi	https://doi.org/10.52202/085713-3086	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+lai2025computerrl	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=3JtpkxAUkM	ICLR 2026	
+lala2023paperqa	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+lee2024promptinfection	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+levy2024stwebagentbenc	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=MuCDzH0ctf	ICLR 2026	
+li2023apibank	peer-reviewed	Conference on Empirical Methods in Natural Language Processing	2023	official	https://aclanthology.org/2023.emnlp-main.187/		Published in Proc. Conf. Empirical Methods in Natural Language Processing (EMNLP)
+li2023camel	peer-reviewed	Neural Information Processing Systems	2023	official	https://papers.nips.cc/paper_files/paper/2023/hash/a3621ee907def47c1b952ade25c67698-Abstract-Conference.html	NEURIPS 2023	Published in Advances in Neural Information Processing Systems (NeurIPS)
+li2023tomcollab	peer-reviewed	Conference on Empirical Methods in Natural Language Processing	2023	official	https://aclanthology.org/2023.emnlp-main.13/		Published in Proc. Conf. Empirical Methods in Natural Language Processing (EMNLP)
+li2024agenthospital	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+li2024personalagents	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+li2024sparsedebate	peer-reviewed	Findings EMNLP	2024	official	https://aclanthology.org/2024.findings-emnlp.427/		Published in Proc. Conf. Empirical Methods in Natural Language Processing (EMNLP)
+li2025searcho1	peer-reviewed	Conference on Empirical Methods in Natural Language Processing	2025	official	https://aclanthology.org/2025.emnlp-main.276/		Published in Proc. Conf. Empirical Methods in Natural Language Processing (EMNLP)
+li2025websailor	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+li2025webthinker	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=dll9Isza2i	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+liang2023codeaspolicies	peer-reviewed	Proc. IEEE Int. Conf. Robotics and Automation (ICRA)	2023	doi	https://doi.org/10.1109/ICRA48891.2023.10160591		Published in IEEE International Conference on Robotics and Automation
+liang2023encouraging	peer-reviewed	Conference on Empirical Methods in Natural Language Processing	2024	official	https://aclanthology.org/2024.emnlp-main.992/		Published in Proc. Conf. Empirical Methods in Natural Language Processing (EMNLP)
+liao2025marft	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+lin2023swiftsage	peer-reviewed	Neural Information Processing Systems	2023	official	https://papers.nips.cc/paper_files/paper/2023/hash/4b0eea69deea512c9e2c469187643dc2-Abstract-Conference.html	NEURIPS 2023	Published in Advances in Neural Information Processing Systems (NeurIPS)
+liu2023dynamic	peer-reviewed	COLM	2024	openreview	https://openreview.net/forum?id=XII0Wp1XA9		
+liu2023llmp	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+liu2024agentbench	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=zAdUB0aCTQ	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+liu2024sesurvey	peer-reviewed	ACM Transactions on Software Engineering and Methodology	2026	crossref	https://doi.org/10.1145/3796507		Published in ACM Transactions on Software Engineering and Methodology
+liu2025foundationagents	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+liu2025infiguir1	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+lu2024aiscientist	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+lu2024omniparser	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+lu2025uir1	peer-reviewed	AAAI Conference on Artificial Intelligence	2026	doi	https://doi.org/10.1609/aaai.v40i21.38816		Published in Proc. AAAI Conf. Artificial Intelligence
+luo2025agentsurvey	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+luo2025guir1	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+lynch2025misalignment	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+ma2024agentboard	peer-reviewed	NeurIPS D&B	2024	official	https://papers.nips.cc/paper_files/paper/2024/hash/877b40688e330a0e2a3fc24084208dfa-Abstract-Datasets_and_Benchmarks_Track.html	NEURIPS 2024	Published in Advances in Neural Information Processing Systems (NeurIPS)
+madaan2023selfrefine	peer-reviewed	Neural Information Processing Systems	2023	official	https://papers.nips.cc/paper_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract-Conference.html	NEURIPS 2023	Published in Advances in Neural Information Processing Systems (NeurIPS)
+masterman2024landscape	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+mei2024aios	peer-reviewed	COLM	2025	openreview	https://openreview.net/forum?id=L4HHkCDz2x		
+merrill2026terminalbench	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=a7Qa4CcHak	ICLR 2026	
+mialon2024gaia	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=fibxvahvs3	ICLR 2024	
+mnih2013atari	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+mohammadi2025evalsurvey	peer-reviewed	KDD	2025	doi	https://doi.org/10.1145/3711896.3736570		Published in Knowledge Discovery and Data Mining
+morris2024levels	peer-reviewed	International Conference on Machine Learning	2024	manual	https://proceedings.mlr.press/v235/morris24b.html		Published in Proc. Int. Conf. Machine Learning (ICML)
+motwani2024malt	peer-reviewed	COLM	2025	openreview	https://openreview.net/forum?id=jXP9bgFack		
+muennighoff2025s1	peer-reviewed	Conference on Empirical Methods in Natural Language Processing	2025	official	https://aclanthology.org/2025.emnlp-main.1025/		Published in Proc. Conf. Empirical Methods in Natural Language Processing (EMNLP)
+nakano2021webgpt	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+novikov2025alphaevolve	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+openai2024o1card	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+ouyang2022instructgpt	peer-reviewed	Neural Information Processing Systems	2022	official	https://papers.nips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html	NEURIPS 2022	Published in Advances in Neural Information Processing Systems (NeurIPS)
+ouyang2025reasoningbank	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=jL7fwchScm	ICLR 2026	
+packer2023memgpt	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+pan2024webcanvas	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+park2023generative	peer-reviewed	UIST	2023	doi	https://doi.org/10.1145/3586183.3606763		Published in Proc. ACM UIST
+park2024simulating1000	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+patil2023gorilla	peer-reviewed	Neural Information Processing Systems	2024	official	https://papers.nips.cc/paper_files/paper/2024/hash/e4c61f578ff07830f5c37378dd3ecb0d-Abstract-Conference.html	NEURIPS 2024	Published in Advances in Neural Information Processing Systems (NeurIPS)
+plaat2025agenticllm	peer-reviewed	Journal of Artificial Intelligence Research	2025	doi	https://doi.org/10.1613/jair.1.18675	JAIR 2025	Published in Journal of Artificial Intelligence Research
+putta2024agentq	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+qi2025webrl	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=oVKEAFjEqv	ICLR 2025	
+qian2024chatdev	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2024	official	https://aclanthology.org/2024.acl-long.810/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+qian2025macnet	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=K3n5jPkrU6	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+qian2025toolrl	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=FqE0pzgcZi	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+qin2024toolllm	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=dHng2O0Jjr	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+qin2025uitars	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+qiu2025alita	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+qu2024crisprgpt	peer-reviewed	Nature Biomedical Engineering	2025	doi	https://doi.org/10.1038/s41551-025-01463-z		Published in Nature Biomedical Engineering
+rawles2024androidworld	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=il5yUQsrjC	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+robeyns2025selfimproving	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+roohani2024biodiscoveryag	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=HAwZGLcye3	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+ruan2024toolemu	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=GEcwtMk1uA	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+sang2025pipelines	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+sapkota2025agentsvsagentic	peer-reviewed	Information Fusion	2026	doi	https://doi.org/10.1016/j.inffus.2025.103599		Published in Information Fusion
+schick2023toolformer	peer-reviewed	Neural Information Processing Systems	2023	official	https://papers.nips.cc/paper_files/paper/2023/hash/d842425e4bf79ba039352da0f658a906-Abstract-Conference.html	NEURIPS 2023	Published in Advances in Neural Information Processing Systems (NeurIPS)
+schmidgall2025agent	peer-reviewed	Findings EMNLP	2025	official	https://aclanthology.org/2025.findings-emnlp.320/		Published in Proc. Conf. Empirical Methods in Natural Language Processing (EMNLP)
+schulman2017proximal	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+selfimprove2026survey	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+shang2025agentsquare	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=mPdmDYIQ7f	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+shao2024deepseekmath	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+sharma2025small	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+shen2023hugginggpt	peer-reviewed	Neural Information Processing Systems	2023	official	https://papers.nips.cc/paper_files/paper/2023/hash/77c33e6a367922d003ff102ffb92b658-Abstract-Conference.html	NEURIPS 2023	Published in Advances in Neural Information Processing Systems (NeurIPS)
+shi2025deepresearch	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+shi2025mobileguirl	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+shinn2023reflexion	peer-reviewed	Neural Information Processing Systems	2023	official	https://papers.nips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html	NEURIPS 2023	Published in Advances in Neural Information Processing Systems (NeurIPS)
+shridhar2021alfworld	peer-reviewed	International Conference on Learning Representations	2021	manual	https://openreview.net/forum?id=0IOX0YcCdTn	ICLR 2021	Published in Proc. Int. Conf. Learning Representations (ICLR)
+singh2023progprompt	peer-reviewed	Proc. IEEE Int. Conf. Robotics and Automation (ICRA)	2023	doi	https://doi.org/10.1109/ICRA48891.2023.10161317		Published in IEEE International Conference on Robotics and Automation
+singh2025agentic	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+singh2025agentic2	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+song2024eto	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2024	manual	https://aclanthology.org/2024.acl-long.409/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+song2025r1searcher	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+subramaniam2025multiagent	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=JtGPIZpOrz	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+sumers2024coala	peer-reviewed	Trans. Mach. Learn. Res.	2024	openreview	https://openreview.net/forum?id=1i6ZCvflQJ	TMLR 2024	Published in Transactions on Machine Learning Research
+sun2025contextfolding	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+sun2025zerosearch	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+tang2023medagents	peer-reviewed	Findings ACL	2024	official	https://aclanthology.org/2024.findings-acl.33/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+tao2024survey	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+team2025kimi	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+terminal2026survey	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+tran2025mascollab	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wan2025rema	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=ur295YVtmt	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+wang2022selfinstruct	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2023	official	https://aclanthology.org/2023.acl-long.754/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+wang2023deps	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wang2023mathshepherd	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2024	official	https://aclanthology.org/2024.acl-long.510/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+wang2023planandsolve	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2023	official	https://aclanthology.org/2023.acl-long.147/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+wang2023selfconsistency	peer-reviewed	International Conference on Learning Representations	2023	manual	https://openreview.net/forum?id=1PL1NIMMrw	ICLR 2023	Published in Proc. Int. Conf. Learning Representations (ICLR)
+wang2023voyager	peer-reviewed	Trans. Mach. Learn. Res.	2024	openreview	https://openreview.net/forum?id=ehfRiF0R3a	TMLR 2024	Published in Transactions on Machine Learning Research
+wang2024agent	peer-reviewed	International Conference on Machine Learning	2025	official	https://proceedings.mlr.press/v267/wang25bx.html	ICML 2025	Published in Proc. Int. Conf. Machine Learning (ICML)
+wang2024codeact	peer-reviewed	International Conference on Machine Learning	2024	official	https://proceedings.mlr.press/v235/wang24h.html	ICML 2024	Published in Proc. Int. Conf. Machine Learning (ICML)
+wang2024moa	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=h0ZfDIrj7T	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+wang2024mobileagent	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wang2024survey	peer-reviewed	Frontiers of Computer Science	2024	doi	https://doi.org/10.1007/s11704-024-40231-1		Published in Frontiers of Computer Science
+wang2025acting	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wang2025agentspec	peer-reviewed	Proc. IEEE/ACM Int. Conf. Software Engineering (ICSE)	2026	doi	https://doi.org/10.1145/3744916.3764546		Published in Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering
+wang2025gsafeguard	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2025	official	https://aclanthology.org/2025.acl-long.359/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+wang2025mobileagente	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wang2025openhands	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=OJd3ayDDoF	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+wang2025ragen	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wang2025sparl	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wei2022cot	peer-reviewed	Neural Information Processing Systems	2022	official	https://papers.nips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html	NEURIPS 2022	Published in Advances in Neural Information Processing Systems (NeurIPS)
+wei2025browsecomp	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wei2025swerl	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=ULblO61XZ0	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+wei2025webagentr1	peer-reviewed	Conference on Empirical Methods in Natural Language Processing	2025	official	https://aclanthology.org/2025.emnlp-main.401/		Published in Proc. Conf. Empirical Methods in Natural Language Processing (EMNLP)
+wei2026survey	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wu2023autogen	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wu2023smartplay	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=S2oTVrlcp3	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+wu2024osatlas	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wu2024oscopilot	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+wu2025webdancer	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=quJdphBcdP	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+wu2025webwalker	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2025	official	https://aclanthology.org/2025.acl-long.508/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+xi2025agentgym	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+xi2025rise	peer-reviewed	Sci. China Inf. Sci.	2025	dblp	https://openreview.net/forum?id=b0veJDFUAw		
+xia2024agentless	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+xia2025livesweagent	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+xiang2024guardagent	peer-reviewed	International Conference on Machine Learning	2025	manual	https://proceedings.mlr.press/v267/xiang25a.html		Published in Proc. Int. Conf. Machine Learning (ICML)
+xiao2024tradingagents	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+xie2023openagents	peer-reviewed	COLM	2024	openreview	https://openreview.net/forum?id=sKATR2O1Y0		
+xie2024osworld	peer-reviewed	NeurIPS D&B	2024	official	https://papers.nips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html	NEURIPS 2024	Published in Advances in Neural Information Processing Systems (NeurIPS)
+xie2024travelplanner	peer-reviewed	International Conference on Machine Learning	2024	official	https://proceedings.mlr.press/v235/xie24j.html	ICML 2024	Published in Proc. Int. Conf. Machine Learning (ICML)
+xu2023rewoo	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+xu2024theagentcompany	peer-reviewed	NeurIPS D&B	2025	openreview	https://openreview.net/forum?id=LZnKNApvhG	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+xu2025amem	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=FiM0M8gcct	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+yamada2025aiscientistv2	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+yan2025memoryr1	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2026	official	https://aclanthology.org/2026.acl-long.583/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+yang2023autogpt	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+yang2024agentoccam	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=HLs6eKAW6t	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+yang2024oasis	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+yang2024sweagent	peer-reviewed	Neural Information Processing Systems	2024	official	https://papers.nips.cc/paper_files/paper/2024/hash/5a7c947568c1b1328ccc5230172e1e7c-Abstract-Conference.html	NEURIPS 2024	Published in Advances in Neural Information Processing Systems (NeurIPS)
+yang2024watchout	peer-reviewed	Neural Information Processing Systems	2024	official	https://papers.nips.cc/paper_files/paper/2024/hash/b6e9d6f4f3428cd5f3f9e9bbae2cab10-Abstract-Conference.html	NEURIPS 2024	Published in Advances in Neural Information Processing Systems (NeurIPS)
+yang2025zerogui	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+yao2022webshop	peer-reviewed	Neural Information Processing Systems	2022	official	https://papers.nips.cc/paper_files/paper/2022/hash/82ad13ec01f9fe44c01cb91814fd7b8c-Abstract-Conference.html	NEURIPS 2022	Published in Advances in Neural Information Processing Systems (NeurIPS)
+yao2023react	peer-reviewed	International Conference on Learning Representations	2023	manual	https://openreview.net/forum?id=WE_vluYUL-X	ICLR 2023	Published in Proc. Int. Conf. Learning Representations (ICLR)
+yao2023tot	peer-reviewed	Neural Information Processing Systems	2023	official	https://papers.nips.cc/paper_files/paper/2023/hash/271db9922b8d1f4dd7aaef84ed5ac703-Abstract-Conference.html	NEURIPS 2023	Published in Advances in Neural Information Processing Systems (NeurIPS)
+yao2024retroformer	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=KOZu91CzbK	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+yao2024taubench	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=roNSXZpUDN	ICLR 2025	
+ye2025mobileagentv3	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+yehudai2025evalsurvey	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+yoran2024assistantbench	peer-reviewed	Conference on Empirical Methods in Natural Language Processing	2024	official	https://aclanthology.org/2024.emnlp-main.505/		Published in Proc. Conf. Empirical Methods in Natural Language Processing (EMNLP)
+yu2024fincon	peer-reviewed	Neural Information Processing Systems	2024	official	https://papers.nips.cc/paper_files/paper/2024/hash/f7ae4fe91d96f50abc2211f09b6a7e49-Abstract-Conference.html	NEURIPS 2024	Published in Advances in Neural Information Processing Systems (NeurIPS)
+yu2025dapo	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=2a36EMSSTp	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+yu2025trustworthy	peer-reviewed	KDD	2025	doi	https://doi.org/10.1145/3711896.3736561		Published in Knowledge Discovery and Data Mining
+yuan2024rjudge	peer-reviewed	Findings EMNLP	2024	official	https://aclanthology.org/2024.findings-emnlp.79/		Published in Proc. Conf. Empirical Methods in Natural Language Processing (EMNLP)
+yuan2024selfrewarding	peer-reviewed	International Conference on Machine Learning	2024	official	https://proceedings.mlr.press/v235/yuan24d.html	ICML 2024	Published in Proc. Int. Conf. Machine Learning (ICML)
+yuksekgonul2024textgrad	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+zelikman2022star	peer-reviewed	Neural Information Processing Systems	2022	official	https://papers.nips.cc/paper_files/paper/2022/hash/639a9a172c044fbb64175b5fad42e9a5-Abstract-Conference.html	NEURIPS 2022	Published in Advances in Neural Information Processing Systems (NeurIPS)
+zeng2024agenttuning	peer-reviewed	Findings ACL	2024	official	https://aclanthology.org/2024.findings-acl.181/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+zhan2024injecagent	peer-reviewed	Findings ACL	2024	official	https://aclanthology.org/2024.findings-acl.624/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+zhan2025adaptiveattacks	peer-reviewed	Findings NAACL	2025	official	https://aclanthology.org/2025.findings-naacl.395/		Published in Proc. NAACL
+zhang2023appagent	peer-reviewed	CHI	2025	doi	https://doi.org/10.1145/3706598.3713600		Published in International Conference on Human Factors in Computing Systems
+zhang2024aflow	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=z5uVAKwmjf	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+zhang2024agentprune	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=LkzuPorQ5L	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+zhang2024agentsafetybench	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+zhang2024codeagent	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2024	official	https://aclanthology.org/2024.acl-long.737/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+zhang2024coela	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=EnXJfQqy0K	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+zhang2024memsurvey	peer-reviewed	ACM Transactions on Information Systems	2025	doi	https://doi.org/10.1145/3748302		Published in ACM Trans. Inf. Syst.
+zhang2024proagent	peer-reviewed	AAAI Conference on Artificial Intelligence	2024	doi	https://doi.org/10.1609/aaai.v38i16.29710	AAAI 2024	Published in Proc. AAAI Conf. Artificial Intelligence
+zhang2024socialpsych	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2024	official	https://aclanthology.org/2024.acl-long.782/		
+zhang2024ufo	peer-reviewed	North American Chapter of the Association for Computational Linguistics	2025	official	https://aclanthology.org/2025.naacl-long.26/		Published in Proc. NAACL
+zhang2025agentic	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=eC4ygDs02R	ICLR 2026	
+zhang2025agenticrl	peer-reviewed	Trans. Mach. Learn. Res.	2026	openreview	https://openreview.net/forum?id=RY19y2RI1O	TMLR 2026	
+zhang2025agentorchestra	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+zhang2025asb	peer-reviewed	International Conference on Learning Representations	2025	openreview	https://openreview.net/forum?id=V4y0CpX4hK	ICLR 2025	Published in Proc. Int. Conf. Learning Representations (ICLR)
+zhang2025darwin	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+zhang2025gdesigner	peer-reviewed	International Conference on Machine Learning	2025	official	https://proceedings.mlr.press/v267/zhang25cu.html	ICML 2025	Published in Proc. Int. Conf. Machine Learning (ICML)
+zhang2025generalizabili	peer-reviewed	ACM Computing Surveys	2026	doi	https://doi.org/10.1145/3794858		Published in ACM Computing Surveys
+zhang2025maas	peer-reviewed	International Conference on Machine Learning	2025	official	https://proceedings.mlr.press/v267/zhang25bi.html	ICML 2025	Published in Proc. Int. Conf. Machine Learning (ICML)
+zhang2025nemotronresear	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=yiE16lWzDj	ICLR 2026	
+zhang2025whichagent	peer-reviewed	International Conference on Machine Learning	2025	official	https://proceedings.mlr.press/v267/zhang25cq.html	ICML 2025	Published in Proc. Int. Conf. Machine Learning (ICML)
+zhang2026componentrepla	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+zhang2026rethinking	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+zhao2025absolute	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=neZSGqhxDa	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+zhao2025sirius	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=IDSTtDw4Cs	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+zheng2024seeact	peer-reviewed	International Conference on Machine Learning	2024	official	https://proceedings.mlr.press/v235/zheng24e.html	ICML 2024	Published in Proc. Int. Conf. Machine Learning (ICML)
+zheng2025deepeyes	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=xUyMXkI958	ICLR 2026	
+zheng2025deepresearcher	peer-reviewed	Conference on Empirical Methods in Natural Language Processing	2025	official	https://aclanthology.org/2025.emnlp-main.22/		Published in Proc. Conf. Empirical Methods in Natural Language Processing (EMNLP)
+zhou2023agentsfw	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+zhou2024archer	peer-reviewed	International Conference on Machine Learning	2024	official	https://proceedings.mlr.press/v235/zhou24t.html	ICML 2024	Published in Proc. Int. Conf. Machine Learning (ICML)
+zhou2024lats	peer-reviewed	International Conference on Machine Learning	2024	official	https://proceedings.mlr.press/v235/zhou24r.html	ICML 2024	Published in Proc. Int. Conf. Machine Learning (ICML)
+zhou2024sotopia	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=mM7VurbA4r	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+zhou2024symbolic	peer-reviewed	AI Open	2025	dblp	https://openreview.net/forum?id=Cdb6iHL40z		Published in AI Open
+zhou2024webarena	peer-reviewed	International Conference on Learning Representations	2024	openreview	https://openreview.net/forum?id=oKn9c6ytLx	ICLR 2024	Published in Proc. Int. Conf. Learning Representations (ICLR)
+zhou2025mass	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=I05H9RUzHB	ICLR 2026	
+zhou2025mem1	peer-reviewed	International Conference on Learning Representations	2026	openreview	https://openreview.net/forum?id=XY8AaxDSLb	ICLR 2026	
+zhou2025selfchallengin	peer-reviewed	Neural Information Processing Systems	2025	openreview	https://openreview.net/forum?id=9yusqX9DpR	NEURIPS 2025	Published in Advances in Neural Information Processing Systems (NeurIPS)
+zhou2025sweetrl	arXiv only				no acceptance record found (ACL Anthology, NeurIPS, PMLR, OpenReview v1+v2 incl. DBLP mirror, Crossref)		
+zhu2025multiagentbench	peer-reviewed	Annual Meeting of the Association for Computational Linguistics	2025	official	https://aclanthology.org/2025.acl-long.421/		Published in Proc. Annu. Meeting Assoc. Computational Linguistics (ACL)
+zhuge2023mindstorms	peer-reviewed	Computational Visual Media	2025	doi	https://doi.org/10.26599/CVM.2025.9450460		Published in Computational Visual Media
+zhuge2024agentjudge	peer-reviewed	International Conference on Machine Learning	2025	official	https://proceedings.mlr.press/v267/zhuge25a.html	ICML 2025	Published in Proc. Int. Conf. Machine Learning (ICML)
