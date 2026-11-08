@@ -1,0 +1,50 @@
+{
+ "n": 50,
+ "coders": 1,
+ "trains_model": {
+  "n": 50,
+  "positives": 10,
+  "labeled_share": 0.2,
+  "labeled_share_ci": [
+   0.112,
+   0.33
+  ],
+  "rule_share": 0.12,
+  "tp": 6,
+  "fp": 0,
+  "fn": 4,
+  "rule_precision": 1.0,
+  "rule_precision_ci": [
+   0.61,
+   1.0
+  ],
+  "rule_recall": 0.6,
+  "rule_recall_ci": [
+   0.313,
+   0.832
+  ]
+ },
+ "system_around_model": {
+  "n": 50,
+  "positives": 33,
+  "labeled_share": 0.66,
+  "labeled_share_ci": [
+   0.522,
+   0.776
+  ],
+  "rule_share": 0.16,
+  "tp": 6,
+  "fp": 2,
+  "fn": 27,
+  "rule_precision": 0.75,
+  "rule_precision_ci": [
+   0.409,
+   0.929
+  ],
+  "rule_recall": 0.182,
+  "rule_recall_ci": [
+   0.086,
+   0.344
+  ]
+ }
+}

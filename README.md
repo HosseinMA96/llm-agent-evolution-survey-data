@@ -8,7 +8,8 @@ Harvest date: November 1, 2026. Submission window: January 1, 2022 – October 3
 
 This repository contains the arXiv harvest, the screening sheet, the keyword rules and scripts
 that produce every count, interval, and test in Section IX, the 300-abstract validation sample
-with its labels, labeling passes, and adjudication log, and the bibliography checks.
+with its labels, labeling passes, and adjudication log, a held-out sample of 50 further abstracts labeled
+by a human coder, and the bibliography checks.
 
 ## Contents
 
@@ -26,6 +27,10 @@ with its labels, labeling passes, and adjudication log, and the bibliography che
 | `data/ai_precheck_labels.csv` | First labeling pass: the AI-assisted pre-labels, all confirmed by the author check; differs from `reference_labels.csv` only in the nine labels corrected after adjudication | §IX-B |
 | `data/second_pass_labels.csv` | Blind second labeling pass: an AI assistant relabeled all 300 abstracts under the same guidelines, seeing only titles and abstracts (not the first pass or the rule outputs); with a confidence and a note per abstract | §II-D, §IX-B |
 | `data/label_adjudication.csv` | Adjudication log of the 27 labels (on 26 papers) on which the two passes disagreed: both passes, final label, decision (changed or kept), basis, confidence, rationale, and comparator papers | §II-D, §IX-B |
+| `data/heldout_labels.csv` | Held-out human check: 50 further corpus abstracts (none among the 300; 20 from 2024, 15 each from 2025 and 2026; seed 20261107) labeled independently by one human coder for the same two questions, with a note per abstract | §II-D, §IX-B |
+| `data/heldout_rules.csv` | Keyword-rule outputs for the held-out sample (not shown to the coder) | §IX-B |
+| `data/heldout_scores.json` | Output of `score_heldout.py`: labeled shares and rule precision/recall against the held-out labels, with Wilson 95% intervals | §IX-B |
+| `data/heldout_instructions.md` | Instructions given to the held-out coder | §II-D |
 | `data/annotator1_labels.csv`, `annotator2_labels.csv` | Blank blind labeling sheets for an optional independent two-annotator check | — |
 | `data/arxiv_id_check.tsv` | Title and first-author check of every arXiv reference | §II-B |
 | `data/checks_venue_evidence.tsv` | Venue audit of every arXiv-derived reference (November 3, 2026): peer-reviewed venue and year, the record it was verified against (ACL Anthology, NeurIPS proceedings, PMLR, OpenReview acceptance, DBLP, Crossref DOI), a second check against ML Anthology, and the earlier Semantic Scholar note | §II-B |
@@ -34,6 +39,8 @@ with its labels, labeling passes, and adjudication log, and the bibliography che
 | `scripts/bibliometrics.py` | Recomputes the corpus, Tables VII–VIII, all tests, and redraws the validation sample | §II, §IX |
 | `scripts/make_tables.py` | Prints the LaTeX rows of Tables VII–VIII from `bibliometrics.json` | Tables VII–VIII |
 | `scripts/score_reference_labels.py` | Precision/recall/F1 of each rule against `reference_labels.csv`, per-year recall with Wilson intervals, and agreement between the two labeling passes; checks that the reference labels follow the adjudication log (writes `reference_scores.json`) | §II-D, §IX-B |
+| `scripts/make_heldout_sample.py` | Redraws the held-out sample (blank sheet and rule outputs); `--check` verifies the archived files against it | §II-D |
+| `scripts/score_heldout.py` | Rule precision/recall against the held-out labels (writes `heldout_scores.json`) | §IX-B |
 | `scripts/score_annotation.py` | Cohen's kappa and rule scores once the two blind sheets are filled | — |
 | `scripts/verify_arxiv_ids.py` | Checks arXiv IDs in a BibTeX file against arxiv.org | §II-B |
 | `scripts/coverage_gap.py` | Builds `coverage_gaps.tsv` from the compared surveys' reference lists (Semantic Scholar / arXiv HTML) | §II-C |
@@ -47,6 +54,8 @@ cd data
 python3 ../scripts/bibliometrics.py      # writes bibliometrics.json and validation_sample.csv
 python3 ../scripts/make_tables.py        # LaTeX rows of Tables VII–VIII
 python3 ../scripts/score_reference_labels.py   # rule scores and pass agreement in §IX-B
+python3 ../scripts/make_heldout_sample.py --check   # held-out sample matches the corpus
+python3 ../scripts/score_heldout.py            # rule scores against the held-out human labels in §IX-B
 python3 ../scripts/score_annotation.py         # only after both blind sheets are filled
 ```
 
@@ -67,6 +76,14 @@ over time; use the archived `harvest.json` to reproduce the paper's numbers.
   papers were corrected and 18 were kept (`label_adjudication.csv`). Both passes are machine labels
   whose errors may be correlated, so this is not human inter-annotator agreement. The blank blind
   sheets are kept for an independent human two-annotator check.
+- In v1.3 (November 8, 2026), a held-out human check was added. One author (A. GhaffarTehrani)
+  labeled 50 further abstracts, none among the 300, independently under the instructions in
+  `heldout_instructions.md`, without seeing the rule outputs (`heldout_labels.csv`). On this sample,
+  20% of papers update weights [11, 33] and 66% build systems around fixed models [52, 78]; the
+  weight-update rule has precision 1.00 [0.61, 1.00] and recall 0.60 [0.31, 0.83], and the scaffold rule
+  precision 0.75 [0.41, 0.93] and recall 0.18 [0.09, 0.34] (`heldout_scores.json`). A planned second
+  sheet was not used, because the other author had already seen these results, so the check has a single
+  coder and gives no inter-annotator agreement.
 - `basis` in `label_adjudication.csv`: *full text*, the abstract was ambiguous and the arXiv full text
   resolved it; *precedent*, consistency with the agreed labels of similar papers (listed in
   `comparators`); *codebook definition*, follows directly from the text of `annotation_guidelines.md`;
