@@ -1,36 +1,88 @@
 {
  "weights": {
   "n_reference": 300,
-  "precision": 0.722,
-  "recall": 0.709,
-  "f1": 0.716,
+  "precision": 0.759,
+  "recall": 0.672,
+  "f1": 0.713,
   "rule_share": 0.18,
-  "label_share": 0.183,
+  "label_share": 0.203,
   "n_2024": 29,
-  "recall_2024": 1.0,
-  "label_share_2024": 0.207,
+  "recall_2024": 0.857,
+  "recall_ci_2024": [
+   0.487,
+   0.974
+  ],
+  "positives_2024": 7,
+  "rule_share_2024": 0.276,
+  "label_share_2024": 0.241,
   "n_2025": 89,
-  "recall_2025": 0.75,
-  "label_share_2025": 0.18,
+  "recall_2025": 0.722,
+  "recall_ci_2025": [
+   0.491,
+   0.875
+  ],
+  "positives_2025": 18,
+  "rule_share_2025": 0.18,
+  "label_share_2025": 0.202,
   "n_2026": 182,
-  "recall_2026": 0.636,
-  "label_share_2026": 0.181
+  "recall_2026": 0.611,
+  "recall_ci_2026": [
+   0.449,
+   0.752
+  ],
+  "positives_2026": 36,
+  "rule_share_2026": 0.165,
+  "label_share_2026": 0.198
  },
  "harness": {
   "n_reference": 300,
   "precision": 0.7,
-  "recall": 0.184,
-  "f1": 0.292,
+  "recall": 0.183,
+  "f1": 0.29,
   "rule_share": 0.167,
-  "label_share": 0.633,
+  "label_share": 0.637,
   "n_2024": 29,
-  "recall_2024": 0.091,
-  "label_share_2024": 0.759,
+  "recall_2024": 0.095,
+  "recall_ci_2024": [
+   0.027,
+   0.289
+  ],
+  "positives_2024": 21,
+  "rule_share_2024": 0.069,
+  "label_share_2024": 0.724,
   "n_2025": 89,
-  "recall_2025": 0.13,
-  "label_share_2025": 0.607,
+  "recall_2025": 0.127,
+  "recall_ci_2025": [
+   0.063,
+   0.24
+  ],
+  "positives_2025": 55,
+  "rule_share_2025": 0.101,
+  "label_share_2025": 0.618,
   "n_2026": 182,
-  "recall_2026": 0.228,
-  "label_share_2026": 0.626
+  "recall_2026": 0.226,
+  "recall_ci_2026": [
+   0.159,
+   0.311
+  ],
+  "positives_2026": 115,
+  "rule_share_2026": 0.214,
+  "label_share_2026": 0.632
+ },
+ "first_vs_second_pass": {
+  "weights": {
+   "n": 300,
+   "agreement": 0.973,
+   "cohen_kappa": 0.9146,
+   "disagreements": 8,
+   "changed_by_adjudication": 6
+  },
+  "harness": {
+   "n": 300,
+   "agreement": 0.937,
+   "cohen_kappa": 0.8623,
+   "disagreements": 19,
+   "changed_by_adjudication": 3
+  }
  }
 }
